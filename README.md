@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **johnnyhuanghcj@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/johnny-huang-h168/](https://www.linkedin.com/in/johnny-huang-h168/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
