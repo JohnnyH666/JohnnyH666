@@ -1,4 +1,4 @@
-<h3 align="center">Proficient in various programming languages for both backend and frontend, complemented by excellent debugging and testing skills.</h3>
+<h3 align="center">A passionate developer proficient in various languages for both backend and frontend, complemented by excellent debugging and testing skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyh666&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyh666" /> </p>
 
