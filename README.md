@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer proficient in various programming languages for both backend and frontend, complemented by excellent debugging and testing skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyh666&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyh666" /> </p>
 
