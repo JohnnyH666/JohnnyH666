@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A passionate developer proficient in various programming languages for both backend and frontend, complemented by excellent debugging and testing skills.</h3>
+<h3 align="center">Highly motivated Full Stack Developer seeking to leverage a strong foundation in software engineering and a unique blend of technical and business expertise. Proficient in Java, Python, JavaScript/React, SQL/NoSQL databases, and cloud platforms (AWS), with hands-on experience in backend development (Spring Boot, FastAPI), frontend implementation, database design (MySQL, SQLite), API development, and CI/CD pipelines (Git, Jenkins). Possesses a double degree in Computer Science and Commerce, enabling the development of technically robust solutions strategically aligned with real-world business needs and demonstrated through projects in renewable energy, finance, real estate and data processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyh666&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyh666" /> </p>
 
