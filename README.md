@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">Highly motivated Full Stack Developer seeking to leverage a strong foundation in software engineering and a unique blend of technical and business expertise. Proficient in Java, Python, JavaScript/React, SQL/NoSQL databases, and cloud platforms (AWS), with hands-on experience in backend development (Spring Boot, FastAPI), frontend implementation, database design (MySQL, SQLite), API development, and CI/CD pipelines (Git, Jenkins). Possesses a double degree in Computer Science and Commerce, enabling the development of technically robust solutions strategically aligned with real-world business needs and demonstrated through projects in renewable energy, finance, real estate and data processing.</h3>
+<h3 align="center"> Highly motivated Full Stack Developer seeking to leverage a strong foundation in software engineering and a unique blend of technical and business expertise. Proficient in Java, Python, JavaScript/React, SQL/NoSQL databases, and cloud platforms (AWS), with hands-on experience in backend development (Spring Boot, FastAPI), frontend implementation, database design (MySQL, SQLite), API development, and CI/CD pipelines (Git, Jenkins). Possesses a double degree in Computer Science and Commerce, enabling the development of technically robust solutions strategically aligned with real-world business needs and demonstrated through projects in renewable energy, finance, real estate and data processing. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyh666&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyh666" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnyh666" alt="johnnyh666" /></a> </p>
 
-- 🌱 I’m currently learning **AI and Machine learning**
+- 👨‍💻 **I'm currently open to any developer roles across Australia**
+  
+- 🌱 I’m currently learning AI and Machine learning
 
-- 👨‍💻 All of my projects are available at [https://github.com/JohnnyH666?tab=repositories](https://github.com/JohnnyH666?tab=repositories)
+- 💼 All of my projects are available at [https://github.com/JohnnyH666?tab=repositories](https://github.com/JohnnyH666?tab=repositories)
 
 - 📫 How to reach me **johnnyhuanghcj@gmail.com**
 
